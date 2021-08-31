@@ -9,15 +9,3 @@ Classification Algorithm which are implemented from scratch using python include
 
 The user also has the priviledge to either choose from inbuilt popular 10 datasets or can upload his own dataset.
 
-
-## Get Started
-
-Install all the dependencies
-```python
-pip install -r requirements.txt
-```
-
-Run the application
-```python
-streamlit run app.py
-```
